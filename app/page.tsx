@@ -106,7 +106,7 @@ export default function Home() {
       name: 'Canopy Kain',
       image: '/canopy-kain.png',
       price: '',
-      details: 
+      details: [
         'Matrial Kain berkualitas tinggi dan tahan cuaca ',
         'Desain modern dan flexible dapat di lipat',
         'Mudah dipasang dan dilipat sesuai kebutuhan',
