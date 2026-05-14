@@ -106,12 +106,12 @@ export default function Home() {
       name: 'Canopy Kain',
       image: '/canopy-kain.png',
       price: '',
-      details: [
-        'Sistem otomatis dengan kontrol smartphone',
-        'Sensor hujan dan angin otomatis',
-        'Pencahayaan LED yang dapat diatur',
-        'Kompatibel dengan smart home system',
-        'Garansi elektronik dan mesin 5 tahun'
+      details: 
+        'Matrial Kain berkualitas tinggi dan tahan cuaca ',
+        'Desain modern dan flexible dapat di lipat',
+        'Mudah dipasang dan dilipat sesuai kebutuhan',
+        'Berbagai pilihan warna dan motif menarik',
+        'Perawatan mudah dan tahan lama hingga 3 tahun'
       ]
     },
   ]
