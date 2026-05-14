@@ -106,11 +106,11 @@ export default function Home() {
       image: '/canopy-kain.png',
       price: '',
       details: [
-        'Matrial Kain berkualitas tinggi dan tahan cuaca',
-        'Desain modern dan flexible dapat di lipat',
-        'Mudah dipasang dan dilipat sesuai kebutuhan',
-        'Berbagai pilihan warna dan motif menarik',
-        'Perawatan mudah dan tahan lama'
+        'Sistem otomatis dengan kontrol smartphone',
+        'Sensor hujan dan angin otomatis',
+        'Pencahayaan LED yang dapat diatur',
+        'Kompatibel dengan smart home system',
+        'Garansi elektronik dan mesin 5 tahun'
       ]
     },
   ]
@@ -193,7 +193,7 @@ export default function Home() {
                 </button>
               ))}
               <a
-                href={`https://wa.me/08996367796?text=Halo, saya ingin mengetahui lebih lanjut tentang produk Jalur Langit Canopy`}
+                href={`https://wa.me/628996367796?text=Halo, saya ingin mengetahui lebih lanjut tentang produk Jalur Langit Canopy`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium flex items-center gap-2"
@@ -225,7 +225,7 @@ export default function Home() {
                 </button>
               ))}
               <a
-                href={`https://wa.me/08996367796?text=Halo, saya ingin mengetahui lebih lanjut tentang produk Jalur Langit Canopy`}
+                href={`https://wa.me/628996367796?text=Halo, saya ingin mengetahui lebih lanjut tentang produk Jalur Langit Canopy`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors font-medium text-sm text-center"
@@ -259,7 +259,7 @@ export default function Home() {
                   <ChevronDown size={20} />
                 </button>
                 <a
-                  href={`https://wa.me/08996367796?text=Halo, saya ingin konsultasi canopy untuk hunian saya`}
+                  href={`https://wa.me/628996367796?text=Halo, saya ingin konsultasi canopy untuk hunian saya`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-white/20 hover:bg-white/30 text-white px-8 py-3 rounded-lg font-medium transition-colors flex items-center gap-2 border border-white/30"
@@ -341,7 +341,7 @@ export default function Home() {
                     <Phone className="text-blue-600" size={20} />
                     <div>
                       <p className="text-sm text-slate-600">WhatsApp Business</p>
-                      <a href="https://wa.me/08996367796" target="_blank" rel="noopener noreferrer" className="font-semibold text-slate-900 hover:text-blue-600">08996367796</a>
+                      <a href="https://wa.me/628996367796" target="_blank" rel="noopener noreferrer" className="font-semibold text-slate-900 hover:text-blue-600">628996367796</a>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -391,7 +391,7 @@ export default function Home() {
                   </div>
 
                   <a
-                    href={`https://wa.me/08996367796?text=Saya tertarik dengan produk "${product.name}" dan ingin mengetahui lebih lanjut`}
+                    href={`https://wa.me/628996367796?text=Saya tertarik dengan produk "${product.name}" dan ingin mengetahui lebih lanjut`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block w-full bg-blue-600 hover:bg-blue-700 text-white text-center py-3 rounded-lg font-medium transition-colors"
@@ -451,8 +451,8 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="font-bold text-slate-900 mb-2">WhatsApp Business</h4>
-                    <a href="https://wa.me/08996367796" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-semibold">
-                      08996367796
+                    <a href="https://wa.me/628996367796" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 font-semibold">
+                      628996367796
                     </a>
                     <p className="text-slate-600 text-sm mt-1">Hubungi kami untuk konsultasi gratis</p>
                   </div>
@@ -517,7 +517,7 @@ export default function Home() {
             <h3 className="text-2xl font-bold mb-3">Bagikan Pengalaman Anda</h3>
             <p className="mb-6 opacity-90">Kami ingin mendengar cerita Anda tentang pengalaman menggunakan produk Jalur Langit Canopy</p>
             <a
-              href={`https://wa.me/08996367796?text=Saya ingin memberikan ulasan tentang produk Jalur Langit Canopy`}
+              href={`https://wa.me/628996367796?text=Saya ingin memberikan ulasan tentang produk Jalur Langit Canopy`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-slate-100 transition-colors"
@@ -547,7 +547,7 @@ export default function Home() {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Hubungi Kami</h4>
-              <p className="text-slate-400 text-sm">WhatsApp: <a href="https://wa.me/08996367796" className="text-white hover:text-blue-400">08996367796</a></p>
+              <p className="text-slate-400 text-sm">WhatsApp: <a href="https://wa.me/628996367796" className="text-white hover:text-blue-400">628996367796</a></p>
               <p className="text-slate-400 text-sm mt-2">Email: info@jalurlangtcanopy.com</p>
             </div>
           </div>
@@ -559,7 +559,7 @@ export default function Home() {
 
       {/* Floating WhatsApp Button */}
       <a
-        href={`https://wa.me/08996367796?text=Halo, saya ingin mengetahui lebih lanjut tentang produk Jalur Langit Canopy`}
+        href={`https://wa.me/628996367796?text=Halo, saya ingin mengetahui lebih lanjut tentang produk Jalur Langit Canopy`}
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-40 bg-blue-600 hover:bg-blue-700 text-white rounded-full p-4 shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-110 flex items-center justify-center"
